@@ -6,4 +6,4 @@ Android code recommendation
 
 
 
-# <sub> Non-Evolution Android dataset： https://github.com/JohnnyPeng18/APIBench</sub>
+# <small> Non-Evolution Android dataset： https://github.com/JohnnyPeng18/APIBench</small>
